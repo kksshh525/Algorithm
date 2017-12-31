@@ -20,7 +20,7 @@
     </Text>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="programmers_가장큰정사각형찾기.cpp">
+    <ClCompile Include="14607_피자(big).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
