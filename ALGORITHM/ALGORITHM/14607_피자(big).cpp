@@ -14,7 +14,8 @@ public:
 		}
 		else {
 			int half = currentHeight / 2, halfPlusOne = currentHeight / 2 + 1;
-			return (long long)half*halfPlusOne + (long long)seperating(half) + (long long)seperating(halfPlusOne);
+			return (long long)half*halfPlusOne + (long long)seperating(half)
+				+ (long long)seperating(halfPlusOne);
 		}
 	}
 };
